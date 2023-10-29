@@ -47,7 +47,7 @@ Once the contract is deployed, you can interact with it by calling the "issueTok
 
 # Author:
 
-[Abhay]
+Abhay
 
 # License:
 
